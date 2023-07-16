@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Flickr Photos</string>
+    <string name="title_activity_search">SearchActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="photo_content_description">Download Flickr Photo</string>
+    <string name="title_activity_photo_details">PhotoDetailsActivity</string>
+    <string name="photo_title_text">Title: %s</string>
+    <string name="floating_icon_text">Message</string>
+    <string name="action_search">Search</string>
+    <string name="enter_the_search_word">Enter the Search Word</string>
+    <string name="empty_image">No image Found</string>
+</resources>
